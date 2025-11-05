@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Shoaib 👋
 
-<!--
-**shoaib-data/shoaib-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning Data Analytics and Data Science.  
+I enjoy working with datasets, finding patterns, and turning numbers into insights.
 
-Here are some ideas to get you started:
+### Skills
+- Python (Pandas, NumPy, Matplotlib)
+- Excel & Google Sheets
+- Power BI (Dashboards & Reports)
+- Basic SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently doing
+- Practicing real-world datasets
+- Building small analysis projects
+- Improving data storytelling skills
+
+### Contact
+📩 Email: syedshoaib0777@gmail.com
