@@ -4,7 +4,7 @@ I'm learning Data Analytics and Data Science.
 I enjoy working with datasets, finding patterns, and turning numbers into insights.
 
 ### Skills
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Excel & Google Sheets
 - Power BI (Dashboards & Reports)
 - Basic SQL
