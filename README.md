@@ -8,6 +8,7 @@ I enjoy working with datasets, finding patterns, and turning numbers into insigh
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Excel & Google Sheets
 - Power BI (Dashboards & Reports)
+- Machine Learning
 - SQL (MySQL)
 - Wordpress Website Build & Manage
 - SEO & Social Media 
