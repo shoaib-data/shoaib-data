@@ -1,6 +1,5 @@
 # Hi, I'm Shoaib 👋
 🎓 IIT Madras BS Data Science (Online) · 🔍 Open to fresher roles in Delhi NCR
-## Portfolio Website Link : https://sites.google.com/view/portfolio-shoaib/home 
 
 I'm learning Data Science & Engineering.  
 I enjoy working with datasets, finding patterns, and turning numbers into insights.
@@ -23,3 +22,5 @@ I enjoy working with datasets, finding patterns, and turning numbers into insigh
 
 ### Contact
 📩 Email: syedshoaib0777@gmail.com
+
+Portfolio Website: https://sites.google.com/view/portfolio-shoaib/home 
