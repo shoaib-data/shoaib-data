@@ -1,4 +1,4 @@
-# Hi, I'm Shoaib 👋 · he/him
+# Hi, I'm Shoaib 👋 
 
 **Data Analyst · ETL Engineer · Data Science Student**
 
@@ -49,7 +49,7 @@
 | **ETL & Automation** | ETL Pipelines, GitHub Actions, REST APIs, Data Validation |
 | **Visualization** | Power BI, Matplotlib, Seaborn |
 | **Analytics** | EDA, Data Cleaning, Business Intelligence |
-| **Tools** | Git & GitHub, VS Code, Jupyter Notebook, Excel |
+| **Tools** | Git & GitHub, VS Code, Jupyter Notebook, Excel, Google Sheets |
 | **Other** | Wordpress Website Building, SEO & Social Media |
 | **AI / ML** | ML Fundamentals, Generative AI, Prompt Engineering |
 
