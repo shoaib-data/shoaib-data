@@ -12,12 +12,15 @@ I enjoy working with datasets, finding patterns, and turning numbers into insigh
 
 
 ### Skills
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Excel & Google Sheets
-- Power BI (Dashboards & Reports)
-- Machine Learning
-- SQL (MySQL)
-- Wordpress Website Build & Manage
+ "Languages"       : ["Python (Pandas, NumPy)", "SQL (MySQL, SQLite)"],
+    "ETL & Automation": ["ETL Pipelines", "GitHub Actions", "REST APIs", "Data Validation"],
+    "Visualization"   : ["Power BI", "Matplotlib", "Seaborn"],
+    "Analytics"       : ["EDA", "Data Cleaning", "Business Intelligence"],
+    "Tools"           : ["Git & GitHub", "VS Code", "Jupyter Notebook", "Excel", "Google Sheets"],
+    "AI / ML"         : ["ML Fundamentals", "Generative AI", "Prompt Engineering"]
+
+### Experience
+- Wordpress Website Building & Manage
 - SEO & Social Media 
 
 ### Contact
