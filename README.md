@@ -1,6 +1,6 @@
 # Hi, I'm Shoaib 👋 
 
-**Data Analyst · ETL Engineer · Data Science Student**
+**Data Analyst · AI Engineering · Data Science Student**
 
 🎓 IIT Madras BS Data Science (Online) · 📍 New Delhi, India · 🔍 Open to fresher roles in Delhi NCR
 
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Building automated data pipelines and analytics projects
+- 🔭 Building automated data pipelines, ml and analytics projects
 - 🌱 Pursuing BS in Data Science & Applications from IIT Madras (Online)
-- 💡 Interested in ETL Engineering, Data Analytics, and Business Intelligence
+- 💡 Interested in AI & ML Engineering, Data Science & Analytics, and Economics
 - 🎯 Actively seeking fresher Data Analyst / Data Engineer roles in Delhi NCR
 
 ---
