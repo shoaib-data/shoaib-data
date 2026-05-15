@@ -11,17 +11,17 @@ I enjoy working with datasets, finding patterns, and turning numbers into insigh
 ![GitHub Streak](https://streak-stats.demolab.com?user=shoaib-data&theme=tokyonight&hide_border=true)
 
 
-### Skills
- "Languages"       : ["Python (Pandas, NumPy)", "SQL (MySQL, SQLite)"],
-    "ETL & Automation": ["ETL Pipelines", "GitHub Actions", "REST APIs", "Data Validation"],
-    "Visualization"   : ["Power BI", "Matplotlib", "Seaborn"],
-    "Analytics"       : ["EDA", "Data Cleaning", "Business Intelligence"],
-    "Tools"           : ["Git & GitHub", "VS Code", "Jupyter Notebook", "Excel", "Google Sheets"],
-    "AI / ML"         : ["ML Fundamentals", "Generative AI", "Prompt Engineering"]
+## 🛠️ Skills
 
-### Experience
-- Wordpress Website Building & Manage
-- SEO & Social Media 
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python (Pandas, NumPy), SQL (MySQL, SQLite) |
+| **ETL & Automation** | ETL Pipelines, GitHub Actions, REST APIs, Data Validation |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Analytics** | EDA, Data Cleaning, Business Intelligence |
+| **Tools** | Git & GitHub, VS Code, Jupyter Notebook, Excel |
+| **Other** | Wordpress, SEO & Social Media |
+| **AI / ML** | ML Fundamentals, Generative AI, Prompt Engineering |
 
 ### Contact
 📩 Email: syedshoaib0777@gmail.com
